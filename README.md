@@ -1,16 +1,3 @@
-# musical_terms
-
-A new Flutter project.
-
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+![Screenshot_20231102-163410_Percussion Instruments](https://github.com/JarneClaesen/PercussionInstruments/assets/134977408/117393fd-dca1-403c-9b2d-cf42fe1c432a)
+![Screenshot_20231102-163356_Percussion Instruments](https://github.com/JarneClaesen/PercussionInstruments/assets/134977408/75db2954-293b-429b-94a6-46ad57e68834)
+![Screenshot_20231102-163331_Percussion Instruments](https://github.com/JarneClaesen/PercussionInstruments/assets/134977408/bb33bf87-0b6c-48b0-8c5d-b993cc44d55d)
